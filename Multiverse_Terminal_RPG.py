@@ -145,4 +145,3 @@ if name:
 
 else:
     print("Access Denied. Anonymous entities are expelled X_X")
-"""
