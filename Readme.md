@@ -65,6 +65,4 @@ python TEST.PY
 3. Turn your speaker volume up, type your handle, and hit option **2** to descend. Try not to get spaghettified!
 
 ---
-*Built with passion, late-night lo-fi beats, and absolute Marvel hype. Thanks for checking out my journey!* 🚀
-
 **HELIS WILL RETURN AFTER DOOMSDAY, LOL 🛸😈**
